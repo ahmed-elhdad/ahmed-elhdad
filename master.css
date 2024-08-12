@@ -1,0 +1,135 @@
+body {
+  background: url("file:///C:/Users/elhaty/OneDrive/Desktop/PROTOFOLIO/landing%20pa/image/image1.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: "roboto";
+  text-transform: capitalize;
+  margin: 0;
+  padding: 0;
+}
+section nav {
+  margin-top: -40px;
+  margin-left: 300px;
+  font-size: 14px;
+}
+section nav ul {
+  list-style: none;
+}
+section nav ul li {
+  display: inline-block;
+  float: left;
+  margin-left: 30px;
+}
+section nav ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  text-transform: capitalize;
+}
+section nav select {
+  margin-left: 30px;
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+}
+.startup {
+  margin-left: 20px;
+  color: #ffffff;
+  letter-spacing: 1.5px;
+}
+* {
+  box-sizing: border-box;
+}
+button {
+  display: flex;
+  float: right;
+  position: relative;
+  left: -100px;
+  top: -35px;
+}
+.btn-1 {
+  background-color: transparent;
+  border: none;
+  padding: 6px 12px;
+  font-size: 13px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.btn-2 {
+  padding: 7px 18px;
+  border: none;
+  border-radius: 5px;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-size: 13px;
+  background-color: rgb(4, 178, 236);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.center {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+  font-size: 35px;
+  width: 500px;
+  text-align: center;
+  position: relative;
+  left: 400px;
+  top: 100px;
+}
+span {
+  display: flex;
+  font-size: 20px;
+  width: 300px;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  position: relative;
+  left: 550px;
+  letter-spacing: 1.6px;
+  top: 100px;
+}
+.btnGroup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  position: relative;
+  left: 80px;
+  top: 200px;
+}
+.btn-1-2 {
+  border: none;
+  color: #ffffff;
+  font-size: 14px;
+  text-transform: capitalize;
+  padding: 10px 20px;
+  background-color: rgba(23, 131, 173, 0.616);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  margin-right: 10px;
+}
+.btn-2-2 {
+  border: none;
+  margin-right: 10px;
+  color: #ffffff;
+  font-size: 14px;
+  text-transform: capitalize;
+  padding: 10px 20px;
+  background-color: rgba(44, 43, 43, 0.719);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
