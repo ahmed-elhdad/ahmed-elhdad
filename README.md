@@ -1,7 +1,7 @@
 <!-- ===== Header & Animated Greeting ===== -->
 <div align="center">
   <!-- Typing animation via SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Nice+to+meet+you!;I'm+Ahmed+Hossam;Full+Stack+Web+Developer" alt="Nice to see you! I’m Ahmed Mohamed" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Nice+to+see+you!;I'm+Ahmed+Hossam;Full+Stack+Web+Developer" alt="Nice to see you! I’m Ahmed Mohamed" />
   
   ## Welcome to my GitHub profile 👋  
 </div>
