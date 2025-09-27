@@ -33,7 +33,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Project One** | Awesome project description | Next.js, Tailwind, Node.js |
+| **Fitness App** | Fitness web application to follow your activities with google health app| React js, Tailwind, Node.js and express js |
 | **Project Two** | Another cool project | React, Express |
 | **Project Three** | Something unique | JavaScript, TypeScript, MongoDB |
 
@@ -51,7 +51,7 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-elhdad&theme=radical&hide_border=true&border_radius=6" alt='gihub streak' />
+  <img src="https://github-readme-streak-stats.her juapp.com/?user=ahmed-elhdad&theme=radical&hide_border=true&border_radius=6" alt='gihub streak' />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 
 ## 🔍 What I'm Up To
 
-- 🚀 Building **[Your Current Project]** with Next.js + Tailwind + Express  
+- 🚀 Building **[Fitness App]** with React.js + Tailwind + Express  + node Js
 - 🧑‍💻 Contributing to open source  
 - 📚 Learning advanced React, TypeScript & Node patterns  
 - 🔑 Implementing **JWT authentication** in backend projects  
