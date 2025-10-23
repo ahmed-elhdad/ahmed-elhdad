@@ -71,7 +71,7 @@
 - 📚 Learning advanced React, TypeScript & Node patterns  
 - 🔑 Implementing **JWT authentication** in backend projects  
 - 🤖 Practicing **Prompt Engineering** for AI-powered apps  
-
+- Learn python 🐍 for AI  and build websites with Django 
 ---
 
 ## 📬 Where to Find Me
