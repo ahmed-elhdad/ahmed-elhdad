@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,next,tailwind" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" height="50" alt="JWT Authentication"/>
   <br/>
   <!-- Tools -->
@@ -33,9 +33,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Fitness App** | Fitness web application to follow your activities with google health app| React js, Tailwind, Node.js and express js |
-| **Project Two** | Another cool project | React, Express |
-| **Project Three** | Something unique | JavaScript, TypeScript, MongoDB |
+| **Fitness Tracker** | Fitness web application to follow your activities with google health app| React js, Tailwind, Node.js and express js |
+| **Python Video Downloader** | Tool with UI and GUI allow user to downlaod video from any website he selet | Python, TTKinker,YoutubeDL |
 
 ---
 
@@ -79,7 +78,7 @@
 <p align="center">
   <a href="https://github.com/ahmed-elhdad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:your.ahalhdad2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-alhdad-195970307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
