@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,next,tailwind" />
   <br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
@@ -33,9 +33,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Fitness Tracker** | Fitness web application to follow your activities with google health app| React js, Tailwind, Node.js and express js |
-| **Python Video Downloader** | Tool with UI and GUI allow user to downlaod video from any website he selet | Python, TTKinker,YoutubeDL |
-| **E-commerse website** | E-commerse web allow user to buy and sale prudocts like amazon| Node.Js, Express , React , Tailwindcss|
+| **Fitness Tracker** | Fitness web application to follow your activities with Google Health App | React.js, Tailwind, Node.js, and Express.js |
+| **Python Video Downloader** | Tool with UI and GUI allows users to download videos from any website they select | Python, TTKinker, YoutubeDL |
+| **E-commerce website** | E-commerce website allows users to buy and sell products like Amazon | Node.js, Express, React, Tailwindcss|
+| **Transfe-Receiptr-OCR** | Website extract text from transfer receipt| Node.js, Express,Tessdata, React, Tailwindcss|
 ---
 
 ## 📊 GitHub Stats
