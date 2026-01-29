@@ -33,10 +33,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Fitness Tracker** | Fitness web application to follow your activities with Google Health App | React.js, Tailwind, Node.js, and Express.js |
-| **Python Video Downloader** | Tool with UI and GUI allows users to download videos from any website they select | Python, TTKinker, YoutubeDL |
-| **E-commerce website** | E-commerce website allows users to buy and sell products like Amazon | Node.js, Express, React, Tailwindcss|
-| **Transfe-Receiptr-OCR** | Website extract text from transfer receipt| Node.js, Express,Tessdata, React, Tailwindcss|
+| **Fuel Efficiency** | ML Model to predict miles per gallon based on horsepower | Python, Sklearn |
+| **Advertising Sales** | ML Model that predicts sales based on advertising spend | Python, Sklearn |
+| **Houses Prices** | ML Model that predicts house prices based on multiple features | Python, Sklearn |
 ---
 
 ## 📊 GitHub Stats
@@ -66,12 +65,11 @@
 
 ## 🔍 What I'm Up To
 
-- 🚀 Building **[Fitness App]** with React.js + Tailwind + Express  + node Js
 - 🧑‍💻 Contributing to open source  
 - 📚 Learning advanced React, TypeScript & Node patterns  
 - 🔑 Implementing **JWT authentication** in backend projects  
 - 🤖 Practicing **Prompt Engineering** for AI-powered apps  
-- Learn python 🐍 for AI  and build websites with Django 
+- Learn Python 🐍 for AI 
 ---
 
 ## 📬 Where to Find Me
