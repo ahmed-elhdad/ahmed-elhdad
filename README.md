@@ -1,7 +1,7 @@
 <!-- ===== Header & Animated Greeting ===== -->
 <div align="center">
   <!-- Typing animation via SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Nice+to+see+you!;I'm+Ahmed+Mohamed;Full+Stack+Web+Developer" alt="Nice to see you! I’m Ahmed Mohamed" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Nice+to+see+you!;I'm+Ahmed+El-Haddad;Full+Stack+Web+Developer;Junior+ML+Engineer" alt="Nice to see you! I’m Ahmed Mohamed" />
   
   ## Welcome to my GitHub profile 👋  
 </div>
@@ -66,7 +66,7 @@
 ## 🔍 What I'm Up To
 
 - 🧑‍💻 Contributing to open source  
-- 📚 Learning advanced React, TypeScript & Node patterns  
+- 📚 Learning ML
 - 🔑 Implementing **JWT authentication** in backend projects  
 - 🤖 Practicing **Prompt Engineering** for AI-powered apps  
 - Learn Python 🐍 for AI 
